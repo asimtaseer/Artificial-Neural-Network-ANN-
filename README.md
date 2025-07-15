@@ -6,7 +6,7 @@ My ANN work <br>
  project 2:    Bear VS panda Classification <br>
 
  project 3:    Covid 19 detection<br>
- 
+
  
 
 
